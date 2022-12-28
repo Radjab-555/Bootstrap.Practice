@@ -1,0 +1,22 @@
+.navbar-drk .navbar-nav .nav-link {
+    color: aliceblue;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: hsl(0, 87%, 52%);
+}
+.btn-outline-dark {
+    color: #fff;
+    border-color: #fff;
+}
+.btn-outline-dark:hover {
+    background-color: hsl(0, 3%, 7%);
+    border-color: #fff;
+}
+
+.content {
+    align-content: center;
+}
+
+h1 {
+    align-content: center;
+}
